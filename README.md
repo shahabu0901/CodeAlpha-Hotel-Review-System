@@ -2,7 +2,7 @@
 CodeAlpha-Hotel-Review-System
 Welcome to Hotel Review System!
 
-Choose an option:
+   Choose an option:
 1. Add a hotel
 2. Add a review
 3. List hotels
